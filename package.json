@@ -1,0 +1,14 @@
+{
+  "name": "ege-sac-merkezi",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs --open",
+    "dev": "node server.mjs --open",
+    "build": "node scripts/build.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
