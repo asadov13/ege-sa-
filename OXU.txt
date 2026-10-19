@@ -1,0 +1,13 @@
+EGE HOSPITAL SAC MERKEZI
+
+1. ZIP faylini tam olaraq qovluga acin.
+2. BASLAT.cmd faylina iki defe klikleyin.
+3. Sayt brauzerde avtomatik acilacaq: http://localhost:3000
+
+3000 portu mesguldursa, novbeti bos port secilir.
+Server aciq olan pencereni baglamayin. Dayandirmaq ucun Ctrl+C basin.
+
+Node.js qovlugun runtime bolmesindedir. Ayrica proqram qurasdirmaq
+ve npm install isletmek lazim deyil.
+
+Komputerinizde Node.js ve npm varsa, qovluqda npm start da isleyecek.
